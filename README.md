@@ -21,4 +21,7 @@ Rules of the Game are mentioned in the <b>Instructions</b> tab in the <b>Menu</b
   <li>And many many more !!!</li>
 </ul>
 
+## Running The Game
+Make sure you have <b>Python 3.8</b> or later installed in your system. Open your terminal and cd into the FootyFit directory. Once you have done that type ``` Python3 footyfit.py ``` or ``` Python3 footyfit_mac.py ``` if you are running it on mac. 
+
 ### Enjoy the game and do let me know how you find it :)
